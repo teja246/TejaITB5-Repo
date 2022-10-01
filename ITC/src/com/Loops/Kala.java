@@ -9,6 +9,9 @@ public class Kala {
 	
 	System.out.println("this is kala from batch-5");
 	
+	
 	}
 
 }
+
+		
