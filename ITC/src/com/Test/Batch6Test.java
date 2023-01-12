@@ -5,6 +5,7 @@ public class Batch6Test {
 	public static void main(String[] args) {
 		System.out.println("Batch6 test class changes");
 		System.out.println("today changes");
+		System.out.println("again chnaged..");
 	}
 	
 }
