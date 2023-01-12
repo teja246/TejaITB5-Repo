@@ -4,7 +4,6 @@ public class Vani {
 
 	public static void main(String[] args) {
           System.out.println(" This is Vani changes..,.");
-          System.out.println("This is Nandini changes...");
 
 	}
 
