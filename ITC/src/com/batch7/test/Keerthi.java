@@ -10,6 +10,6 @@ public class Keerthi {
 		System.out.println("Heyyyyyy1");
 		System.out.println("Heyyyyyy2");
 		System.out.println("testing conflicts");
-
+		System.out.println("resolved conflict");
 	}
 }
