@@ -4,8 +4,7 @@ public class Ganesh {
 
 	public static void main(String[] args) {
 		System.out.println("Ganesh changed");
-		System.out.println("hi ganesh..");
-		System.out.println("where are you...");
+		System.out.println("boww...");
 
 	}
 
