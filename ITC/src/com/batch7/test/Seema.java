@@ -2,8 +2,8 @@ package com.batch7.test;
 
 public class Seema {
 
-    String s = "dummy";
+    //String s = "dummy";
     public static void main(String[] args) {
-        System.out.println("random file creation "+ s );
+        System.out.println("random file creation " );
     }
 }
