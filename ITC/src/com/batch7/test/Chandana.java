@@ -7,6 +7,7 @@ public class Chandana {
 		System.out.println("hai frnds....");
 		System.out.println("service");
 		System.out.println("service2");
+		System.out.println("normal");
 	}
 
 
