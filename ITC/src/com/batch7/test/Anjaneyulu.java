@@ -1,10 +1,8 @@
 package com.batch7.test;
 
-public class Gopi {
-
+public class Anjaneyulu {
 	public static void main(String[] args) {
-		
-		System.out.println("Gopi T changes......");
+		System.out.println("Anjaneyulu Changes....");
 	}
 
 }
